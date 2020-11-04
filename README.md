@@ -15,13 +15,13 @@
                     alt="yondraco"
                     data-canonical-src="https://komarev.com/ghpvc/?username=yondraco&amp;label=Views&amp;color=blue&amp;style=plastic"
                     style="max-width:100%;"></a> </p>
-        <ul>
+       
             <li>
                 <g-emoji class="g-emoji" alias="telescope"
                     fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I am a student majoring in information technology at Vietnam Agricultural Academy
             </li>
     
-        </ul>
+      
         <h3><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg
                     class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
                     aria-hidden="true">
